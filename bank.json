@@ -1,0 +1,19 @@
+{
+    "user1": 2,
+    "user2": 3,
+    "user3": {
+        "rpinfo": {
+            "characters": [
+                {
+                    "name": "name here",
+                    "age": 0,
+                    "gender": "gender here",
+                    "species": "species here"
+                },
+                {
+                    "same stuff as before": "yeah"
+                }
+            ]
+        }
+    }
+}
