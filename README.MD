@@ -1,4 +1,4 @@
-## `actual bot` for actualy bot files
+## `actual bot` for actual bot files
 
 ## other folders are only folders used for testing
 
