@@ -1,0 +1,21 @@
+{
+  "userid": {
+    "rpinfo": {
+      "characters": [
+        {
+          "character1": {
+            "name": "name here",
+            "age": 0,
+            "gender": "gender here",
+            "species": "species here"
+          }
+        },
+        {
+          "character2": {
+            "same stuff as before": "yeah"
+          }
+        }
+      ]
+    }
+  }
+}
